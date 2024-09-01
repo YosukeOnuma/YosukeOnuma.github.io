@@ -1,7 +1,7 @@
-# My Portfolio
+# Yosuke Onuma (大沼陽介)'s Portfolio
 
 ## About Me
-I am a software developer with an interest in data science and systems engineering.
+
 
 ## Projects
 - **Project 1:** Description of project 1.
